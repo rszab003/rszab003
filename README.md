@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in ... Embedded programming, Python programming, Web development, Linux
+- 👀 I’m interested in ... embedded programming, python programming, full-stack development, linux
 - 🌱 I’m currently learning ... python, asynchronous coding, curses
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...
