@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rszab003
-- 👀 I’m interested in ... Embedded programming, Python programming, Web development
+- 👀 I’m interested in ... Embedded programming, Python programming, Web development, Linux
 - 🌱 I’m currently learning ... python, asynchronous coding, curses
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...
